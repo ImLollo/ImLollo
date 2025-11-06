@@ -1,11 +1,11 @@
 # 💫 About Me
-Hi, I'm **Lollo** — a **19-year-old FiveM developer** (since **2020**) and **Computer Science student** at **[Sapienza University Rome](https://www.uniroma1.it/it)** and **[ITS ITC Rome](https://www.its-ictacademy.com)**.
+Hi, I'm **Lorenzo** a **19-year-old FiveM developer** (since **2020**) and **Computer Science student** at **[Sapienza University Rome](https://www.uniroma1.it/it)** and **[ITS ITC Rome](https://www.its-ictacademy.com)**.
 
 ### 🔭 Currently working on
-- [**Artemis Roleplay**](https://discord.gg/artemisrp) — my main FiveM server with **30,000+ users**
+- [**Artemis RolePlay**](https://discord.gg/artemisrp): my main FiveM server with **30,000+ users**
 
 ### 🧰 Previously worked on
-- [**Emerals Roleplay**](https://discord.gg/emeralsrp) — Italy’s most-played FiveM server (**350,000+ users**)
+- [**Emerals RolePlay**](https://discord.gg/emeralsrp): Italy’s most-played FiveM server (**350,000+ users**)
 
 ### 📫 Contact
 - **Discord:** `imlollo_`
