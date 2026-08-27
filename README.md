@@ -8,7 +8,7 @@ Hi, I'm **Lorenzo** a **20-year-old FiveM developer** (since **2020**) and **Com
 - [**Emerals RolePlay**](https://discord.gg/emeralsrp): Italy’s most-played FiveM server (**350,000+ users**)
 
 ### 📫 Contact
-- **Discord:** `imlollo_`
+- **Discord:** `lorenzoolivii`
 - **Email:** [olivi.lory@gmail.com](mailto:olivi.lory@gmail.com)
 
 ### 💻 Tech Stack
